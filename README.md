@@ -34,7 +34,7 @@
 
 ## Управленческий дашборд
 
-![SQL + BI дашборд](screenshots/dashboard.svg)
+![SQL + BI дашборд](screenshots/dashboard.png)
 
 Интерактивный прототип доступен онлайн: [Live demo](https://comfe2436-web.github.io/sales-performance-sql-bi-dashboard/dashboard/).
 
